@@ -1,4 +1,8 @@
 baseURL = "http://goodfeels.net/"
 languageCode = "en-us"
 title = "Good Feels"
-theme = "ananke"
+theme = "goodfeels-theme"
+sectionPagesMenu = "main"                                               
+
+[params]
+    description = "Hacking Self Improvement"
