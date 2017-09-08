@@ -12,7 +12,7 @@ Most emotional pain is self-inflicted. People tend to unconsciously hurt themsel
 
 How is emotional pain caused? At first glance, it’s obvious: shit happens, and it hurts you.
 
-{{<figure src="/img/event-to-feelings-300x131.png">}}
+{{<figure src="/img/source-of-emotional-pain/event-to-feelings-300x131.png">}}
 
 Except that’s not what happens. This misconception is a major cause of dysfunctional mental habits. It causes us to write off the origin of our emotions as unchangeable, and implies we must fight our emotions as the only chance of improving how we feel, which is one of the worst things for reducing emotional pain.
 
@@ -22,7 +22,7 @@ On closer inspection, we see a missing step.
 * **We think about it.**
 * We react to the thoughts.
 
-{{<figure src="/img/event-to-thoughts-to-feelings-768x213.png">}}
+{{<figure src="/img/source-of-emotional-pain/event-to-thoughts-to-feelings-768x213.png">}}
 
 This sequence leads to most of the emotions we feel. This is important, because we can examine our thoughts and our reaction to them, and modify them over time.
 <!--more-->
