@@ -8,7 +8,7 @@ draft: true
 
 Realizing you are not your mind is key to overcoming fear and self-doubt, and a cornerstone of mental strength. However, it can only be learned by experiencing it for yourself.
 
-{{<figure class="" src="/img/Drawing1-1-300x300.png" title="You are not your mind, but your mind is part of you.">}}
+{{<figure class="" src="/img/you-are-not-your-mind/Drawing1-1-300x300.png" title="You are not your mind, but your mind is part of you.">}}
 
 What makes this so hard to believe is that we refer to our mind as “I”. Even though doing so feels as natural as breathing, this association is harmful. For most of us (me included), our mind is often negative. It tells us stories about how our current situation is bad, or lets us know that we are unable to accomplish something, or details the reasons why our loved ones will look down on us.
 <!--more-->
