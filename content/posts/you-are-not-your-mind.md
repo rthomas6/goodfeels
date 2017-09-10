@@ -2,16 +2,18 @@
 title: "You Are Not Your Mind"
 description: "The Knowledge that Lets You See Through Fear"
 date: 2017-08-17T20:29:06-04:00
-draft: true
+draft: false
+tags: ["mindfulness"]
+categories: ["self-help"]
 ---
 **You**, the person reading these words, is not the same you as your mind. By “mind,” I mean our [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue). Also referred to as the voice in our head, our personal narrative, and our inner critic.
 
 Realizing you are not your mind is key to overcoming fear and self-doubt, and a cornerstone of mental strength. However, it can only be learned by experiencing it for yourself.
+<!--more-->
 
 {{<figure class="" src="/img/you-are-not-your-mind/Drawing1-1-300x300.png" title="You are not your mind, but your mind is part of you.">}}
 
 What makes this so hard to believe is that we refer to our mind as “I”. Even though doing so feels as natural as breathing, this association is harmful. For most of us (me included), our mind is often negative. It tells us stories about how our current situation is bad, or lets us know that we are unable to accomplish something, or details the reasons why our loved ones will look down on us.
-<!--more-->
 
 Eckhart Tolle explains the mind in [The Power of Now](http://amzn.to/2udmulH):
 
