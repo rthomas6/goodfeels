@@ -7,3 +7,4 @@ googleAnalytics = "UA-102910248-1"
 
 [params]
     description = "Hacking Self Improvement"
+    headerPic = "/img/bg-img.svg"
